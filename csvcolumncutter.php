@@ -1,5 +1,5 @@
 <?php
-//another copy
+//another copy of it
 // removing unncessary columns from ebays report ready for mysql import 
 	//removing old file
 	
