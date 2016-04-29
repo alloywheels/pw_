@@ -1,0 +1,2 @@
+#for diff
+SELECT ebstock.itemid, ttstock.STOCKBAL from ebstock INNER JOIN ttstock ON ebstock.customlabel = ttstock.STCODE WHERE ebstock.qty <> ttstock.STOCKBAL
